@@ -1,6 +1,6 @@
 //! Client library for GMO Coin API
 
-#![crate_name = "gmo_coin_rs"]
+#![crate_name = "gmo_coin_rs2"]
 
 pub mod dto;
 pub mod end_point;
